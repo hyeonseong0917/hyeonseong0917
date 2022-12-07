@@ -3,9 +3,17 @@
 1. Research Intern - ETRI 한국전자통신연구원 Cloud기반 SW연구실
 ## ✨Certification
 1. Certified Kubernetes Administrator
-2. AWS Certified Cloud Practitioner
-3. AWS Certified Solutions Architect Associate
-4. AWS Certified Developer
+- Validate at: https://training.linuxfoundation.org/certification/verify/
+- Validation Number: LF-wad3rvfb8v, Last Name: Yang(대소문자 주의)
+3. AWS Certified Cloud Practitioner
+- Validation Number: 9R63PB9BB1EE1VG2
+- Validate at: https://aws.amazon.com/verification
+5. AWS Certified Solutions Architect Associate
+- Validation Number: N83KYVVDFMFEQ83P
+- Validate at: https://aws.amazon.com/verification
+7. AWS Certified Developer Associate
+- Validation Number: JSEX40LBH1BEQ43G
+- Validate at: https://aws.amazon.com/verification
 ## 🔭 I’m currently studying
 1. AWS Certified Sysops Administrator
 2. AWS EKS & AWS Sagemaker
