@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi My Name is HyeonSeong Yang 👋
 ## 🌱Experience
 1. Research Intern - ETRI 한국전자통신연구원 Cloud기반 SW연구실
 ## ✨Certification
