@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🌱Experience
-1. Summer Intern - ETRI 한국전자통신연구원 Cloud기반 SW연구실
+1. Research Intern - ETRI 한국전자통신연구원 Cloud기반 SW연구실
 ## ✨Certification
 1. Certified Kubernetes Administrator
 2. AWS Certified Cloud Practitioner
