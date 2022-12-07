@@ -4,7 +4,8 @@
 ## ✨Certification
 1. Certified Kubernetes Administrator
 - Validate at: https://training.linuxfoundation.org/certification/verify/
-- Validation Number: LF-wad3rvfb8v, Last Name: Yang(대소문자 주의)
+- Validation Number: LF-wad3rvfb8v
+- Last Name: Yang(대소문자 주의)
 2. AWS Certified Cloud Practitioner
 - Validation Number: 9R63PB9BB1EE1VG2
 - Validate at: https://aws.amazon.com/verification
