@@ -7,14 +7,14 @@
 - Validation Number: LF-wad3rvfb8v
 - Last Name: Yang(대소문자 주의)
 2. AWS Certified Cloud Practitioner
+- Validate at: https://aws.amazon.com/verification
 - Validation Number: 9R63PB9BB1EE1VG2
-- Validate at: https://aws.amazon.com/verification
 3. AWS Certified Solutions Architect Associate
+- Validate at: https://aws.amazon.com/verification
 - Validation Number: N83KYVVDFMFEQ83P
-- Validate at: https://aws.amazon.com/verification
 4. AWS Certified Developer Associate
-- Validation Number: JSEX40LBH1BEQ43G
 - Validate at: https://aws.amazon.com/verification
+- Validation Number: JSEX40LBH1BEQ43G
 ## 🔭 I’m currently studying
 1. AWS Certified Sysops Administrator
 2. AWS EKS & AWS Sagemaker
