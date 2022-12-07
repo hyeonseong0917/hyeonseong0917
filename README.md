@@ -1,4 +1,4 @@
-### Hi My Name is HyeonSeong Yang 👋
+### Hi. My Name is HyeonSeong Yang 👋
 ## 🌱Experience
 1. Research Intern - ETRI Cloud-Based SW Research Lab
 ## ✨Certification
