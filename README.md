@@ -1,6 +1,6 @@
 ### Hi. My Name is HyeonSeong Yang 👋
 ## 🌱Experience
-1. Research Intern - ETRI Cloud-Based SW Research Lab
+1. Research Intern - ETRI Cloud-Based SW Research Lab (2022.07.11 ~ 2022.08.31)
 ## ✨Certification
 1. Certified Kubernetes Administrator
 - Validate at: https://training.linuxfoundation.org/certification/verify/
