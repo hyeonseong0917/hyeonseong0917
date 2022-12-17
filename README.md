@@ -1,6 +1,10 @@
 ### Hi. My Name is HyeonSeong Yang 👋
 ## 🌱Experience
 1. Research Intern - ETRI Cloud-Based SW Research Lab (2022.07 ~ 2022.08)
+## ⚡Awards
+1. 3등상/SOSCON2018 삼성 오픈소스 청소로봇 알고리즘 해커톤 (2018.10 삼성전자)
+2. 인사참모부장상/2020 공군창업경진대회(2020.06 공군본부)
+3. 우수상/모빌리티 ICT 창업경진대회(2022. 04 DSC지역혁신플랫폼 모빌리티 ICT 사업본부)
 ## ✨Certification
 1. Certified Kubernetes Administrator
 - Validate at: https://training.linuxfoundation.org/certification/verify/
