@@ -26,7 +26,7 @@
 2. AWS EKS & AWS Sagemaker
 3. Kubernetes In Action
 4. Django OAuth
-5. Computer Vision
+5. Computer Vision & NLP
 6. Machine Learning
 <!--
 **hyeonseong0917/hyeonseong0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
