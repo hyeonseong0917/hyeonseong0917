@@ -28,6 +28,7 @@
 4. Django OAuth
 5. Computer Vision & NLP
 6. Machine Learning
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dreamsweet)](https://solved.ac/dreamsweet/)
 <!--
 **hyeonseong0917/hyeonseong0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
