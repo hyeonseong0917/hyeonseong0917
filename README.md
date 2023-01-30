@@ -25,9 +25,8 @@
 1. AWS Certified Sysops Administrator
 2. AWS EKS & AWS Sagemaker
 3. Kubernetes In Action
-4. Django OAuth
-5. Computer Vision & NLP
-6. Machine Learning
+4. Computer Vision & NLP
+5. Django Backend
 <br></br>
 ## 🌱Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dreamsweet)](https://solved.ac/dreamsweet/)
