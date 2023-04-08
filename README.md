@@ -55,11 +55,11 @@
 - Validate at: https://aws.amazon.com/verification
 - Validation Number: JSEX40LBH1BEQ43G
 ## 🔭 I’m currently studying
-1. AWS Certified Sysops Administrator
-2. AWS EKS & AWS Sagemaker
-3. Kubernetes In Action
-4. Computer Vision & NLP
-5. Django Backend
+1. Backend
+2. NLP
+3. Frontend Basic
+4. Kubernetes & AWS EKS
+5. AWS Sagemaker
 <br></br>
 ## 🌱Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dreamsweet)](https://solved.ac/dreamsweet/)
