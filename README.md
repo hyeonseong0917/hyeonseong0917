@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/fastapi-007396?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/spring-47A248?style=for-the-badge&logo=spring&logoColor=white">
   
@@ -44,9 +44,9 @@
 
 ## 🌱Experience
 1. Research Intern - ETRI Cloud-Based SW Research Lab (2022.07 ~ 2022.08)
-2. Intern - K-water Digital Platform Division (2023.09 ~ 2024. 02)
-## 🌱Dev Camp
-1. Smilegate Winter Dev Camp (2022.12 ~ 2023.2)
+2. Smilegate Winter Dev Camp (2022.12 ~ 2023.2)
+3. Intern - K-water Digital Platform Division (2023.09 ~ 2024. 02)
+
 ## ⚡Awards
 1. 3등상/SOSCON2018 삼성 오픈소스 청소로봇 알고리즘 해커톤 (2018.10 삼성전자)
 2. 인사참모부장상/2020 공군창업경진대회(2020.06 공군본부)
