@@ -45,7 +45,7 @@
 ## 🌱Experience
 1. Research Intern - ETRI Cloud-Based SW Research Lab (2022.07 ~ 2022.08)
 2. Smilegate Winter Dev Camp (2022.12 ~ 2023.2)
-3. Intern - K-water Digital Platform Division (2023.09 ~ 2024. 02)
+3. Intern - K-water Digital Transformation Team (2023.09 ~ 2024. 02)
 
 ## ⚡Awards
 1. 3등상/SOSCON2018 삼성 오픈소스 청소로봇 알고리즘 해커톤 (2018.10 삼성전자)
