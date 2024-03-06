@@ -42,15 +42,13 @@
   <br>
 </div>
 
-## 🌱Experience
+## 🌱Career
 1. Research Intern - ETRI Cloud-Based SW Research Lab (2022.07 ~ 2022.08)
-2. Smilegate Winter Dev Camp (2022.12 ~ 2023.2)
-3. Intern - K-water Digital Transformation Division (2023.09 ~ 2024. 02)
+2. Intern - K-water Digital Transformation Division (2023.09 ~ 2024. 02)
 
 ## ⚡Awards
-1. 3등상/SOSCON2018 삼성 오픈소스 청소로봇 알고리즘 해커톤 (2018.10 삼성전자)
-2. 인사참모부장상/2020 공군창업경진대회(2020.06 공군본부)
-3. 우수상/모빌리티 ICT 창업경진대회(2022.04 DSC지역혁신플랫폼 모빌리티 ICT 사업본부)
+1. 인사참모부장상/2020 공군창업경진대회(2020.06 공군본부)
+2. 우수상/모빌리티 ICT 창업경진대회(2022.04 DSC지역혁신플랫폼 모빌리티 ICT 사업본부)
 
 ## ✨Certification
 1. Certified Kubernetes Administrator
@@ -66,12 +64,8 @@
 4. AWS Certified Developer Associate
 - Validate at: https://aws.amazon.com/verification
 - Validation Number: JSEX40LBH1BEQ43G
-## 🔭 I’m currently studying
-1. Backend
-2. NLP
-3. Frontend Basic
-4. Kubernetes & AWS EKS
-5. AWS Sagemaker
+## 🔭 Experience
+1. Smilegate Winter Dev Camp (2022.12 ~ 2023.2)
 <br></br>
 ## 🌱Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dreamsweet)](https://solved.ac/dreamsweet/)
