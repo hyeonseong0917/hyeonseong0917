@@ -12,35 +12,13 @@
   <br>
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/fastapi-007396?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/spring-47A248?style=for-the-badge&logo=spring&logoColor=white">
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-<!--   <br>
-  <br>
-  
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <br>
-  
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  
-  <br> -->
-  
-
-<!--   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  -->
-  
-  
   <br>
 </div>
+
+## 🌱Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dreamsweet)](https://solved.ac/dreamsweet/)
+[![CodeForces Profile](https://cf.leed.at?id=dreamsweetDOONA)](https://codeforces.com/profile/dreamsweetDOONA)
 
 ## 🌱Career
 1. Research Intern - ETRI Cloud-Based SW Research Lab (2022.07 ~ 2022.08)
@@ -67,9 +45,6 @@
 ## 🔭 Experience
 1. Smilegate Winter Dev Camp (2022.12 ~ 2023.2)
 <br></br>
-## 🌱Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dreamsweet)](https://solved.ac/dreamsweet/)
-[![CodeForces Profile](https://cf.leed.at?id=dreamsweetDOONA)](https://codeforces.com/profile/dreamsweetDOONA)
 <!--
 **hyeonseong0917/hyeonseong0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
