@@ -16,13 +16,13 @@
   <br>
 </div>
 
-## 🌱Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dreamsweet)](https://solved.ac/dreamsweet/)
-[![CodeForces Profile](https://cf.leed.at?id=dreamsweetDOONA)](https://codeforces.com/profile/dreamsweetDOONA)
-
 ## 🌱Career
 1. Research Intern - ETRI Cloud-Based SW Research Lab (2022.07 ~ 2022.08)
 2. Intern - K-water Digital Transformation Division (2023.09 ~ 2024. 02)
+
+## 🌱Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dreamsweet)](https://solved.ac/dreamsweet/)
+[![CodeForces Profile](https://cf.leed.at?id=dreamsweetDOONA)](https://codeforces.com/profile/dreamsweetDOONA)
 
 ## ⚡Awards
 1. 인사참모부장상/2020 공군창업경진대회(2020.06 공군본부)
