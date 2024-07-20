@@ -17,7 +17,8 @@
 
 ## 🌱Career
 1. Research Intern - ETRI Cloud-Based SW Research Lab (2022.07 ~ 2022.08)
-2. Intern - K-water Digital Transformation Division (2023.09 ~ 2024. 02)
+2. Smilegate Winter Dev Camp (2022.12 ~ 2023.2)
+3. Intern - K-water Digital Transformation Division (2023.09 ~ 2024. 02)
 
 ## 🌱Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dreamsweet)](https://solved.ac/dreamsweet/)
@@ -41,8 +42,7 @@
 4. AWS Certified Developer Associate
 - Validate at: https://aws.amazon.com/verification
 - Validation Number: JSEX40LBH1BEQ43G
-## 🔭 Experience
-1. Smilegate Winter Dev Camp (2022.12 ~ 2023.2)
+<!-- ## 🔭 Experience -->
 <br></br>
 <!--
 **hyeonseong0917/hyeonseong0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
