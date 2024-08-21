@@ -19,6 +19,7 @@
 1. Research Intern - ETRI Cloud-Based SW Research Lab (2022.07 ~ 2022.08)
 2. Smilegate Winter Dev Camp (2022.12 ~ 2023.2)
 3. Intern - K-water Digital Transformation Division (2023.09 ~ 2024. 02)
+4. Intern - codejone Network Engineering Division(2024.07 ~ 2024.08)
 
 ## 🌱Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dreamsweet)](https://solved.ac/dreamsweet/)
