@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/rabbitmq-FF8C00?style=for-the-badge&logo=rabbitmq&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/spring-47A248?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-47A248?style=for-the-badge&logo=springboot&logoColor=white">
