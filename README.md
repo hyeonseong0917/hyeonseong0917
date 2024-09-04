@@ -23,7 +23,7 @@
 </div>
 
 ## 🌱Career
-1. Intern - codejone Network Engineering Division(2024.07 ~ 2024.08)
+1. Intern - codejone(with KT DS) Network Engineering Division(2024.07 ~ 2024.08)
 2. Intern - K-water Digital Transformation Division (2023.09 ~ 2024. 02)
 3. Research Intern - ETRI Cloud-Based SW Research Lab (2022.07 ~ 2022.08)
 4. Smilegate Winter Dev Camp (2022.12 ~ 2023.2)
