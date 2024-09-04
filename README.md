@@ -15,6 +15,11 @@
   <img src="https://img.shields.io/badge/java-D1180B?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-007396?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c++&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/mysql-007396?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgresql-007396?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-D1180B?style=for-the-badge&logo=redis&logoColor=white">
 </div>
 
 ## 🌱Career
