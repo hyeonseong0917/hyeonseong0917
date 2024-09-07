@@ -23,10 +23,10 @@
 </div>
 
 ## 🌱Career
-### 1. Intern - codejone(with KT DS) Network Engineering Division(2024.07 ~ 2024.08) [SNMP_CAPTURE](https://github.com/hyeonseong0917/SNMP_CAPTURE)
-### 2. Intern - K-water Digital Transformation Division (2023.09 ~ 2024. 02) [SmartVillage](https://github.com/hyeonseong0917/smartVillage)
-### 3. Research Intern - ETRI Cloud-Based SW Research Lab (2022.07 ~ 2022.08) [K8s Object Detection](https://github.com/hyeonseong0917/ETRI_K8S_Resnet_Object_Detection_microservice)
-### 4. Smilegate Winter Dev Camp (2022.12 ~ 2023.2) [LOATUS](https://github.com/sgdevcamp2022/lotus)
+1. Intern - codejone(with KT DS) Network Engineering Division(2024.07 ~ 2024.08) [SNMP_CAPTURE](https://github.com/hyeonseong0917/SNMP_CAPTURE)
+2. Intern - K-water Digital Transformation Division (2023.09 ~ 2024. 02) [SmartVillage](https://github.com/hyeonseong0917/smartVillage)
+3. Research Intern - ETRI Cloud-Based SW Research Lab (2022.07 ~ 2022.08) [K8s Object Detection](https://github.com/hyeonseong0917/ETRI_K8S_Resnet_Object_Detection_microservice)
+4. Smilegate Winter Dev Camp (2022.12 ~ 2023.2) [LOATUS](https://github.com/sgdevcamp2022/lotus)
 
 
 
