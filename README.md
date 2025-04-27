@@ -23,10 +23,11 @@
 </div>
 
 ## 🌱Career
-1. Intern - ***codejone*** Network Engineering Division(2024.07 ~ 2024.08) [SNMP_CAPTURE](https://github.com/hyeonseong0917/SNMP_CAPTURE)
-2. Intern - ***K-water*** Digital Transformation Division (2023.09 ~ 2024. 02) [SmartVillage](https://github.com/hyeonseong0917/smartVillage)
-3. Research Intern - ***ETRI*** Cloud-Based SW Research Lab (2022.07 ~ 2022.08) [K8s Object Detection](https://github.com/hyeonseong0917/ETRI_K8S_Resnet_Object_Detection_microservice)
-4. ***Smilegate*** Winter Dev Camp (2022.12 ~ 2023.2) [LOATUS](https://github.com/sgdevcamp2022/lotus)
+1. Software Maestro 16th(2025.03 ~ 2025.12)
+2. Intern - ***codejone*** Network Engineering Division(2024.07 ~ 2024.08) [SNMP_CAPTURE](https://github.com/hyeonseong0917/SNMP_CAPTURE)
+3. Intern - ***K-water*** Digital Transformation Division (2023.09 ~ 2024. 02) [SmartVillage](https://github.com/hyeonseong0917/smartVillage)
+4. Research Intern - ***ETRI*** Cloud-Based SW Research Lab (2022.07 ~ 2022.08) [K8s Object Detection](https://github.com/hyeonseong0917/ETRI_K8S_Resnet_Object_Detection_microservice)
+5. ***Smilegate*** Winter Dev Camp (2022.12 ~ 2023.2) [LOATUS](https://github.com/sgdevcamp2022/lotus)
 
 
 
@@ -35,8 +36,9 @@
 [![CodeForces Profile](https://cf.leed.at?id=R_siyomin)](https://codeforces.com/profile/R_siyomin)
 
 ## ⚡Awards
-1. 인사참모부장상/2020 공군창업경진대회(2020.06 공군본부)
-2. 우수상/모빌리티 ICT 창업경진대회(2022.04 DSC지역혁신플랫폼 모빌리티 ICT 사업본부)
+1. 최우수상/DSC 2024 캡스톤디자인 우수성과 경진대회(DSC 대학교육혁신본부)
+2. 인사참모부장상/2020 공군창업경진대회(2020.06 공군본부)
+3. 우수상/모빌리티 ICT 창업경진대회(2022.04 DSC지역혁신플랫폼 모빌리티 ICT 사업본부)
 
 ## ✨Certification
 1. Certified Kubernetes Administrator
