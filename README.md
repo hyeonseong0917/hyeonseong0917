@@ -23,7 +23,7 @@
 </div>
 
 ## 🌱Career
-1. Software Maestro 16th(2025.03 ~ 2025.12)
+1. Software Maestro 16th(2025.03 ~ 2025.12) [TheFirstTake](https://github.com/SWMTheFirstTake/TheFirstTake-backend)
 2. Intern - ***codejone*** Network Engineering Division(2024.07 ~ 2024.08) [SNMP_CAPTURE](https://github.com/hyeonseong0917/SNMP_CAPTURE)
 3. Intern - ***K-water*** Digital Transformation Division (2023.09 ~ 2024. 02) [SmartVillage](https://github.com/hyeonseong0917/smartVillage)
 4. Research Intern - ***ETRI*** Cloud-Based SW Research Lab (2022.07 ~ 2022.08) [K8s Object Detection](https://github.com/hyeonseong0917/ETRI_K8S_Resnet_Object_Detection_microservice)
