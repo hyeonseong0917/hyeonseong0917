@@ -46,12 +46,21 @@
 [![CodeForces Profile](https://cf.leed.at?id=R_siyomin)](https://codeforces.com/profile/R_siyomin)
 
 ## ⚡Awards
-1. 최우수상/DSC 2024 캡스톤디자인 우수성과 경진대회(DSC 대학교육혁신본부)
+<!-- 1. 최우수상/DSC 2024 캡스톤디자인 우수성과 경진대회(DSC 대학교육혁신본부)
 2. 인사참모부장상/2020 공군창업경진대회(2020.06 공군본부)
-3. 우수상/모빌리티 ICT 창업경진대회(2022.04 DSC지역혁신플랫폼 모빌리티 ICT 사업본부)
+3. 우수상/모빌리티 ICT 창업경진대회(2022.04 DSC지역혁신플랫폼 모빌리티 ICT 사업본부) -->
+
+| 수상내역            | 대회명 및 주최 기관                                      | 수상일           |
+|---------------------|---------------------------------------------------------|------------------|
+| 최우수상            | DSC 2024 캡스톤디자인 우수성과 경진대회 (DSC 대학교육혁신본부) | 2024.12 |
+| 우수상              | 모빌리티 ICT 창업경진대회 (2022.04 DSC지역혁신플랫폼 모빌리티 ICT 사업본부) | 2022.04          |
+| 인사참모부장상       | 2020 공군창업경진대회 (2020.06 공군본부)                   | 2020.06          |
+
+
+
 
 ## ✨Certification
-1. Certified Kubernetes Administrator
+<!-- 1. Certified Kubernetes Administrator
 - Validate at: https://training.linuxfoundation.org/certification/verify/
 - Validation Number: LF-wad3rvfb8v
 - Last Name: Yang
@@ -63,7 +72,16 @@
 - Validation Number: N83KYVVDFMFEQ83P
 4. AWS Certified Developer Associate
 - Validate at: https://aws.amazon.com/verification
-- Validation Number: JSEX40LBH1BEQ43G
+- Validation Number: JSEX40LBH1BEQ43G -->
+
+| 자격증명                                | 취득 날짜  | 검증 링크                                                      | 검증 번호              | 이름 (필요시) |
+|---------------------------------------|------------|--------------------------------------------------------------|------------------------|---------------|
+| Certified Kubernetes Administrator    | 2022.12    | [검증하기](https://training.linuxfoundation.org/certification/verify/) | LF-wad3rvfb8v          | Yang          |
+| AWS Certified Developer Associate     | 2022.05    | [검증하기](https://aws.amazon.com/verification)               | JSEX40LBH1BEQ43G       |               |
+| AWS Certified Solutions Architect Associate | 2022.01    | [검증하기](https://aws.amazon.com/verification)               | N83KYVVDFMFEQ83P       |               |
+| AWS Certified Cloud Practitioner      | 2021.07    | [검증하기](https://aws.amazon.com/verification)               | 9R63PB9BB1EE1VG2       |               |
+
+
 <!-- ## 🔭 Experience -->
 <br></br>
 <!--
