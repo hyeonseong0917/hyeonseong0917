@@ -32,7 +32,7 @@
 
 | 프로젝트명             | 소속                        | 참여 인원 | 기간                        | 소개                                                                 | 역할                                      |
 |------------------------|----------------------------------|-----------|-----------------------------|----------------------------------------------------------------------|-------------------------------------------|
-| [TheFirstTake](https://github.com/SWMTheFirstTake/TheFirstTake-backend)           | **소프트웨어 마에스트로 16기**           | 3인        | 2025.03 ~ 2025.12           | LLM 기반 개인 맞춤형 스타일 큐레이션 시스템| 팀장, 백엔드 개발, LLM 질의응답 서버 구축 및 인프라 설계     |
+| [TheFirstTake](https://github.com/SWMTheFirstTake/TheFirstTake-backend)           | **소프트웨어 마에스트로 16기**           | 3인        | 2025.03 ~ 2025.12           | LLM 기반 개인 맞춤형 스타일 큐레이션 플랫폼| 팀장, 백엔드 개발, LLM 질의응답 서버 구축 및 인프라 설계     |
 | [SNMP_CAPTURE](https://github.com/hyeonseong0917/SNMP_CAPTURE)           | **코드제이** 네트워크 엔지니어링팀      | 2인        | 2024.07 ~ 2024.08           | 라우터 AP의 무선 트래픽을 SNMP로 수집 및 RabbitMQ로 처리하는 모니터링 시스템            | Telegraf 설정, Spring 서버 구현            |
 | [SmartVillage](https://github.com/hyeonseong0917/smartVillage)          | **한국수자원공사** 디지털전환추진단            | 2인        | 2023.09 ~ 2024.02           | 스마트빌리지 IoT 데이터 수집 및 주민 에너지 모니터링 시스템| 데이터 수집 API 개발, 실시간 대기량 모니터링 구현, 시각화       |
 | [K8s Object Detection](https://github.com/hyeonseong0917/ETRI_K8S_Resnet_Object_Detection_microservice)   | **ETRI** 클라우드기반SW연구실        | 1인        | 2022.07 ~ 2022.08           | 쿠버네티스 기반 GPU 노드 스케줄링 및 객체 인식 서비스          | 아키텍처 설계, GPU 리소스 할당 API 구현         |
