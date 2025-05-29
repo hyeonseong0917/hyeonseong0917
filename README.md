@@ -74,7 +74,7 @@
 - Validate at: https://aws.amazon.com/verification
 - Validation Number: JSEX40LBH1BEQ43G -->
 
-| 자격증명                                | 취득 날짜  | 검증 링크                                                      | 검증 번호              | 이름 (필요시) |
+| 자격증명                                | 취득 날짜  | 검증 링크                                                      | 검증 번호              | Last Name (필요시) |
 |---------------------------------------|------------|--------------------------------------------------------------|------------------------|---------------|
 | Certified Kubernetes Administrator    | 2022.12    | [검증하기](https://training.linuxfoundation.org/certification/verify/) | LF-wad3rvfb8v          | Yang          |
 | AWS Certified Developer Associate     | 2022.05    | [검증하기](https://aws.amazon.com/verification)               | JSEX40LBH1BEQ43G       |               |
