@@ -85,7 +85,7 @@
 <!-- ## 🔭 Experience -->
 <br></br>
 <!--
-**hyeonseong0917/hyeonseong0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hyeonseong0917/hyeonseong0917** is a ✨ _specia_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
