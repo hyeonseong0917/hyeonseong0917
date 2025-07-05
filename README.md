@@ -72,7 +72,7 @@
 - Validation Number: N83KYVVDFMFEQ83P
 4. AWS Certified Developer Associate
 - Validate at: https://aws.amazon.com/verification
-- Validation Number: JSEX40LBH1BEQ43G -->
+- Vaidation Number: JSEX40LBH1BEQ43G -->
 
 | 자격증명                                | 취득 날짜  | 검증 링크                                                      | 검증 번호              | Last Name (필요시) |
 |---------------------------------------|------------|--------------------------------------------------------------|------------------------|---------------|
