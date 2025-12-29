@@ -24,12 +24,12 @@
 
 ## 💻 Career
 - Experience
-  - [소프트웨어 마에스트로 16기](https://www.swmaestro.org/sw/main/main.do)/2025.03. ~ 2025.12.
+  - [소프트웨어 마에스트로 16기](https://www.swmaestro.org/sw/main/main.do) / 2025.03. ~ 2025.12.
   - [스마일게이트 윈터데브캠프 2기](https://careers.smilegate.com/student/development-camp) / 2022.12. ~ 2023.02.
 - Intern
-  - [CodeJ](https://codejone.com/)/2024.07. ~ 2024.08.
-  - [한국수자원공사](https://www.kwater.or.kr/main.do?s_mid=1)/2023.09. ~ 2024.02.
-  - [한국전자통신연구원(ETRI)](https://www.etri.re.kr/intro.html)/2022.07. ~ 2022.08.
+  - [CodeJ](https://codejone.com/) / 2024.07. ~ 2024.08.
+  - [한국수자원공사](https://www.kwater.or.kr/main.do?s_mid=1) / 2023.09. ~ 2024.02.
+  - [한국전자통신연구원(ETRI)](https://www.etri.re.kr/intro.html) / 2022.07. ~ 2022.08.
 
 ## 🌱Project
 <!--1. Software Maestro 16th(2025.03 ~ 2025.12) [TheFirstTake](https://github.com/SWMTheFirstTake/TheFirstTake-backend)
