@@ -1,6 +1,6 @@
 ### Hi. My Name is HyeonSeong Yang 👋
 ### [PORTFOLIO CLICK HERE](https://outrageous-nylon-9f3.notion.site/Yang-Hyeonseong-1b7d3a1c859280c0abc1d558c782146e)
-### 🛠️ SRE Engineer | Cloud Infrastructure · Kubernetes · IaC
+### 🛠️ SRE Engineer | Cloud · Kubernetes · IaC · Observability
 <div align=center><h1>📚 Tech Skills</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
