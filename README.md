@@ -1,5 +1,6 @@
 ### Hi. My Name is HyeonSeong Yang 👋
 ### [PORTFOLIO CLICK HERE](https://outrageous-nylon-9f3.notion.site/Yang-Hyeonseong-1b7d3a1c859280c0abc1d558c782146e)
+### 🛠️ SRE Engineer | Cloud Infrastructure · Kubernetes · IaC
 <div align=center><h1>📚 Tech Skills</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
@@ -19,6 +20,7 @@
   - [소프트웨어 마에스트로 16기](https://www.swmaestro.org/sw/main/main.do) / 2025.03. ~ 2025.12.
   - [스마일게이트 윈터데브캠프 2기](https://careers.smilegate.com/student/development-camp) / 2022.12. ~ 2023.02.
 - Intern
+  - [Cashwalk](https://cashwalk.com/) / 2026.03. ~
   - [CodeJ](https://codejone.com/) / 2024.07. ~ 2024.08.
   - [한국수자원공사](https://www.kwater.or.kr/main.do?s_mid=1) / 2023.09. ~ 2024.02.
   - [한국전자통신연구원(ETRI)](https://www.etri.re.kr/intro.html) / 2022.07. ~ 2022.08.
