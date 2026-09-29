@@ -79,7 +79,7 @@
 
 | 자격증명                                | 취득 날짜  | 검증 링크                                                      | 검증 번호              | Last Name (필요시) |
 |---------------------------------------|------------|--------------------------------------------------------------|------------------------|---------------|
-| Certified Kubernetes Administrator    | 2022.12    | [검증하기](https://training.linuxfoundation.org/certification/verify/) | LF-wad3rvfb8v          | Yang          |
+| Certified Kubernetes Administrator    | 2026.07    | [검증하기](https://training.linuxfoundation.org/certification/verify/) | LF-wad3rvfb8v          | Yang          |
 | AWS Certified Developer Associate     | 2022.05    | [검증하기](https://aws.amazon.com/verification)               | JSEX40LBH1BEQ43G       |               |
 | AWS Certified Solutions Architect Associate | 2022.01    | [검증하기](https://aws.amazon.com/verification)               | N83KYVVDFMFEQ83P       |               |
 | AWS Certified Cloud Practitioner      | 2021.07    | [검증하기](https://aws.amazon.com/verification)               | 9R63PB9BB1EE1VG2       |               |
